@@ -1,2 +1,2 @@
-# Portfolio
-Premium dark-themed video editor portfolio with animated circular progress bars, responsive YouTube gallery, and client testimonials.
+Dhruv Sharma Video Editing Portfolio
+A premium, dark-themed personal website showcasing professional video editing work. Features animated circular progress bars with software logos, a responsive YouTube video gallery, smooth scroll and intersection animations, client testimonials, and a modern WhatsApp contact button for instant inquiries. Built with HTML, CSS, and vanilla JavaScript for optimal performance and customization.

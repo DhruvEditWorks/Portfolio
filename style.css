@@ -657,3 +657,11 @@ body::before {
   border-radius: 10px;
 }
 * { scrollbar-color: var(--scrollbar-thumb) #161f1a; }
+
+.about-quote {
+  font-style: italic;
+  color: #b1ffca;
+  margin-top: 24px;
+  display: block;
+  font-size: 1.08rem;
+}

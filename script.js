@@ -38,7 +38,8 @@ const thumbnailData = {
     {title: "Indian Flag", image: "thumbnails/documentary/doc-thumb-3.png", description: "Bold design for historical content"}
   ],
   gaming: [
-    {title: "Gaming", image: "thumbnails/gaming/game-thumb-1.png", description: "Dynamic gaming thumbnail"}
+    {title: "Free Fire", image: "thumbnails/gaming/game-thumb-1.png", description: "Dynamic Free Fire gaming thumbnail"},
+{title: "Minecraft", image: "thumbnails/gaming/game-thumb-2.png", description: "Dynamic Minecraft gaming thumbnail"}
   ],
   podcast: [
     {title: "Genz Podcast", image: "thumbnails/podcast/podcast-thumb-1.png", description: "Clean podcast thumbnail"}
